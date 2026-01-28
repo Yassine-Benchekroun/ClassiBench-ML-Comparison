@@ -1,0 +1,10 @@
+========== FINAL COMPARISON ==========
+
+              Model  Accuracy  ROC AUC  F1-Score  Specificity  Sensitivity  Precision
+Logistic Regression    0.8875 0.970467  0.823529     0.961538     0.750000   0.913043
+     SVM Polynomial    0.9125 0.968407  0.857143     1.000000     0.750000   1.000000
+            SVM RBF    0.9250 0.967720  0.896552     0.923077     0.928571   0.866667
+         SVM Linear    0.8625 0.962225  0.775510     0.961538     0.678571   0.904762
+
+
+

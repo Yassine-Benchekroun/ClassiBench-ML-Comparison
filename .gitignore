@@ -1,0 +1,18 @@
+# Python bytecode (prevents junk folders in your repo)
+__pycache__/
+*.py[cod]
+
+# Environments (don't upload your local virtual environment)
+.venv/
+venv/
+env/
+
+# VS Code settings
+.vscode/
+
+# Data & OS junk
+.DS_Store
+*.log
+
+# Sensitive Data (if you ever use API keys)
+.env
