@@ -40,5 +40,4 @@ The models are compared using the following metrics:
    ```
 ---
 ## Results
----
 ![Comparison of SVM and Logistic Regression](./results/Result.jpeg)
