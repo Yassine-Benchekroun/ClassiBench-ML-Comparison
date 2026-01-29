@@ -42,4 +42,4 @@ The models are compared using the following metrics:
 ## Results
 When executed, the script outputs a consolidated table of metrics directly to the console, sorted by **ROC AUC** in descending order. This provides a quick and clear comparison of which classification method performed best on the dataset.
 ---
-![Comparison of SVM and Logistic Regression](./result/Result.jpeg)
+![Comparison of SVM and Logistic Regression](./results/Result.jpeg)
