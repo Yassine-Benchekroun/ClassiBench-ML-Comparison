@@ -40,4 +40,6 @@ The models are compared using the following metrics:
    ```
 ---
 ## Results
+For this comparative analysis, models are sorted based on their ROC AUC scores in descending order to highlight the best-performing classifiers.
+ROC AUC was selected as the primary metric because it provides a robust measure of the model's discriminative power, remaining unaffected by class imbalance or specific decision thresholds.
 ![Comparison of SVM and Logistic Regression](./results/Result.jpeg)
